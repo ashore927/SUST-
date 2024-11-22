@@ -1,0 +1,146 @@
+
+.content {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	/* align-items: center; */
+	/* justify-content: center; */
+}
+.logo {
+	height: 80rpx;
+	width: 55rpx;
+	margin-top: 20rpx;
+	margin-left: 20rpx;
+	margin-right: 20rpx;
+	/* margin-bottom: 50rpx; */
+}
+.user-area {
+	height: 48px;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	/* align-items: center; */
+	/* justify-content: center; */
+}
+.wlc-text {
+	margin-top: 40rpx;
+	margin-left: 15rpx;
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+.my-bike {
+	height: 130px;
+	width: 100%;
+	background-color:#f1fafe;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 40rpx;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	/* justify-content: center; */
+}
+.my-bike-bg {
+	height: 100px;
+	width: 95%;
+	margin-left: 20rpx;
+	margin-right: 20rpx;
+	background-color:#60acf2;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-radius: 18px;
+	/* justify-content: center; */
+}
+.bike-img {
+	height: 80rpx;
+	width: 80rpx;
+	margin-left: 70rpx;
+	/* margin-bottom: 50rpx; */
+}
+.bike-text {
+	margin-left: 100rpx;
+	font-size: 40rpx;
+	color: #ffffff;
+}
+.jt-img {
+	height: 40rpx;
+	width: 30rpx;
+	margin-left: 140rpx;
+}
+.register {
+	height: 110px;
+	width: 100%;
+	background-color:#FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.register-img {
+	height: 100%;
+	width: 100%;
+}
+.slogan-area {
+	height: 40px;
+	width: 100%;
+	background-color:#FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.slogan{
+	height: 100%;
+	width: 100%;
+}
+.list-img1{
+	height: 1100rpx;
+	width: 100%;
+}
+.list-img2{
+	height: 550rpx;
+	width: 100%;
+}
+
+
+

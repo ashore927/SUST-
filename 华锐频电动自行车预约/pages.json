@@ -1,0 +1,38 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "主页",
+				"font-weight": "bold"
+			}
+		}
+	    ,{
+            "path" : "pages/mybike/mybike",
+            "style" : {
+				"navigationBarTitleText": "我的电动自行车",
+				"font-weight": "bold"
+			}
+        }
+        ,{
+            "path" : "pages/ecard/ecard",
+            "style" : {
+				"navigationBarTitleText": "电子行驶证",
+				"font-weight": "bold"
+			}
+        }
+        ,{
+            "path" : "pages/change/change",
+            "style" : {
+				"navigationBarTitleText": "修改页面",
+				"font-weight": "bold"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
